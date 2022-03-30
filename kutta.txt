@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hey i m kutta..you are also kutta..
+=======
+hey i m kutta
+infact everyone is kutta
+>>>>>>> 1a79bc1b84175546cee06d5457cc11896ecd43e1
